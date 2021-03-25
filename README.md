@@ -24,6 +24,6 @@ Seperate branches were created before merging to the main branch.  Each branch a
 Final map:<br>
 ![finalmap](https://user-images.githubusercontent.com/75437852/112411255-fbd5d000-8cf2-11eb-9d7a-134bfee2c660.png)<br>
 
-**[Resources]**(https://github.com/taranahassan/Mapping_Earthquakes/tree/main/Resources) used:
+**[Resources](https://github.com/taranahassan/Mapping_Earthquakes/tree/main/Resources)** used:
 GeoJSON file for all earthquakes in the past 7 days retrieved from: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
