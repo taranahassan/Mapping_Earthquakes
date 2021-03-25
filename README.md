@@ -17,6 +17,12 @@ Using JavaScript and html, a map with 3 different views and 3 different data opt
   2.  Tectonic Plate
   3.  Major Earthquakes of 4.5 or more magnitudes (past 7 days)
   <br>
-The map defaults to street view option with all 3 data visualizations once opened, however a user is able to toggle between the options.
+The map defaults to street view option with all 3 data visualizations once opened, however a user is able to toggle between the options.<br>
 
-Seperate branches were created before merging to the main branch.  Each branch and folder has been saved so it can be referenced by any future users looking to create similar.
+Seperate branches were created before merging to the main branch.  Each branch and folder has been saved so it can be referenced by any future users looking to create similar maps.
+
+Final map:<br>
+![finalmap](https://user-images.githubusercontent.com/75437852/112411255-fbd5d000-8cf2-11eb-9d7a-134bfee2c660.png)<br>
+
+**
+
